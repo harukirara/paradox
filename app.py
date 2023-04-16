@@ -5,7 +5,6 @@ from torchvision import transforms
 from PIL import Image
 from models import Generator
 import numpy as np
-import cv2
 import pandas as pd
 
 # Streamlitアプリケーションの定義
